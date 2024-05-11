@@ -1,0 +1,5 @@
+form {width:250px;}
+form>div>span {width:100px;display: inline-block;text-align:left;}
+form input {width:150px;}
+form>div {text-align:center;}
+table>tr>th, table>tr>td {text-align:right;}
